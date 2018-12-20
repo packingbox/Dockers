@@ -4,7 +4,7 @@
 ### Thanks to
 - https://github.com/txthinking/brook
 
-update to 2018.12.12 version
+update to 2018.12.12 version.
 
 ### Usage
 ```
