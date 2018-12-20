@@ -1,5 +1,6 @@
 FROM golang:alpine as builder
 RUN apk add --update git
+#get current brook
 RUN go get github.com/txthinking/brook/releases/download/v20181212/brook
 
 
