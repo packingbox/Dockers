@@ -3,15 +3,17 @@
   
 ### Thanks to
 - https://github.com/txthinking/brook
-  
+
+update to 2018.12.12 version
+
 ### Usage
 ```
-$ docker pull chenhw2/brook
+$ docker pull packingbox/brook
 
 $ docker run -d \
     -e "ARGS=server -l :6060 -p password" \
     -p 6060:6060/tcp -p 6060:6060/udp \
-    chenhw2/brook
+    packingbox/brook
 ```
   
 ### ENV
